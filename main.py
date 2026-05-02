@@ -28,7 +28,7 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
 AJIO_MESSAGE = (
     "🔥 AJIO Loot Trick 🔥 Get ₹200 Shopping at Just ₹59 (Only for New Users)\n\n"
     "💥 Download App: https://ajioapps.onelink.me/2ic3/welcometoajio\n\n"
-    "🎯 Referral Code: DHRFKFGPC\n\n"
+    "🎯 Referral Code: GADJFV087\n\n"
     "🛒 Add items worth minimum ₹200 to your cart\n"
     "🏷 Apply Code: NEW30\n"
     "➕ Use ₹100 wallet balance\n\n"
